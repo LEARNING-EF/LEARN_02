@@ -11,3 +11,11 @@
 3. INSTALL-PACKAGE EntityFramework.SqlServerCompact		--> Entity Framework For Sql Server Compact Edition
 
 	- EntityFramework.SqlServerCompact
+
+-----------------------------------------------------------------------------------------------------------
+
+	Table				Database
+
+	DataTable			DataSet
+
+	Model / Entity		DatabaseContext
