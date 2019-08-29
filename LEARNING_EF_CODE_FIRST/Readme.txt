@@ -1,8 +1,9 @@
 ﻿1. INSTALL-PACKAGE EntityFramework						--> Entity Framework For Sql Server
 
 	- EntityFramework
-	- EntityFramework.SqlServer
 	- System.ComponentModel.DataAnnotations
+
+	- EntityFramework.SqlServer
 
 2. INSTALL-PACKAGE SqlServerCompact						--> Sql Server Compact Edition (CE)
 
