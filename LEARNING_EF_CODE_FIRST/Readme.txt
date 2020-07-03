@@ -15,8 +15,10 @@
 
 -----------------------------------------------------------------------------------------------------------
 
-	Table				Database
+	Table				Database			Row / Record		Field
 
-	DataTable			DataSet
+	DataTable			DataSet				DataRow				Column
 
-	Model / Entity		DatabaseContext
+	Model / Entity		DatabaseContext		Object				Field / Property
+
+-----------------------------------------------------------------------------------------------------------
